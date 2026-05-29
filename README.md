@@ -5,12 +5,8 @@
 </p>
 
 <h3 align="center">
-🚀 AI/ML Engineer in Progress | Full Stack Developer | Building Agentic AI Systems
+🚀 AI/ML Engineer | Full Stack Developer | Building Agentic AI Systems
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
-</p>
 
 ---
 
@@ -18,36 +14,36 @@
 
 ```yaml
 Name: Harsha
-Education: B.Tech AIML
-Role: Student & Builder
-
-Focus:
+Degree: B.Tech AIML
+Current Focus:
   - Artificial Intelligence
-  - Agentic AI Systems
+  - Agentic AI
   - Full Stack Development
   - Knowledge Management Systems
 
-Mission:
-  Build impactful AI products and solve real-world problems.
+Goal:
+  Build real-world AI products and startup-grade software.
 ```
 
 - 🔭 Currently building **COMMANDR**
-- 🤖 Exploring Agentic AI, RAG & AI Automation
+- 🤖 Exploring AI Agents, RAG & Automation
 - 🌱 Learning Cloud, DevOps & System Design
-- 🚀 Building startup-grade software projects
-- ⚡ Turning ideas into working products
+- 🚀 Building projects that solve real-world problems
+- ⚡ Always learning something new
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🤖 COMMANDR
+
 An AI-powered desktop assistant capable of:
 
 - Voice Commands
-- Autonomous Task Execution
-- Multi-Agent Architecture
-- Website Creation & Deployment
+- Multi-Agent Workflows
+- Task Automation
+- Website Generation
+- Deployment Assistance
 
 ---
 
@@ -58,7 +54,7 @@ Features:
 - Patient Dashboard
 - Therapist Dashboard
 - Admin Dashboard
-- Appointment Management
+- Appointment Booking
 - AI Chatbot Integration
 
 ---
@@ -67,7 +63,7 @@ Features:
 
 Built using Python.
 
-Features:
+Capabilities:
 
 - Voice Recognition
 - Browser Automation
@@ -80,55 +76,18 @@ Features:
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,firebase,git,github,docker,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🎯 Current Learning Journey
+# 📈 Current Learning Journey
 
 - ✅ Python
 - ✅ SQL
 - ✅ Git & GitHub
+- ✅ Web Development
 - ✅ MERN Stack
 - 🔄 Agentic AI
 - 🔄 RAG Systems
@@ -138,15 +97,25 @@ Features:
 
 ---
 
+# 🏆 Goals For 2026
+
+- 🚀 Launch COMMANDR
+- 🤖 Master Agentic AI
+- ☁️ Learn Cloud Engineering
+- 🧠 Build Production AI Systems
+- 🌍 Contribute More To Open Source
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -155,5 +124,5 @@ Features:
 ---
 
 <p align="center">
-⭐ Building today what I want to use tomorrow.
+💡 Building today what I want to use tomorrow.
 </p>
