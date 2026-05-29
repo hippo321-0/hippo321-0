@@ -1,15 +1,9 @@
-<h1 align="center">🚀 Harsha</h1>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=HARSHA&fontSize=80&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:334155&height=280&section=header&text=HARSHA&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Repeating&descSize=22&descAlignY=70"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;Building+COMMANDR;Full+Stack+Developer;Agentic+AI+Explorer;Future+AI+Startup+Founder;Always+Learning+Something+New" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hippo321-0&label=PROFILE+VIEWS&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Learning.;Building.;Repeating.;Turning+Ideas+Into+Projects.;Always+Leveling+Up." />
 </p>
 
 ---
