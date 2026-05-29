@@ -2,9 +2,23 @@
 
 > Building strange ideas into usable software.
 
-![GitHub stars](https://img.shields.io/github/stars/nebulaforge/corekit?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge">
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge">
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -13,6 +27,7 @@
 NebulaForge is a fictional high-performance toolkit designed for distributed automation, AI workflows, and realtime data synchronization across edge devices.
 
 It was built to experiment with:
+
 - Modular architecture
 - Fast deployment pipelines
 - Adaptive caching systems
@@ -36,14 +51,14 @@ The project focuses on simplicity, speed, and scalability while maintaining a cl
 
 ## 🛠 Tech Stack
 
-| Layer        | Technology |
-|--------------|------------|
-| Backend      | Rust + Node.js |
-| Frontend     | Next.js |
-| Database     | PostgreSQL |
-| Cache        | Redis |
+| Layer | Technology |
+|-------|------------|
+| Backend | Rust + Node.js |
+| Frontend | Next.js |
+| Database | PostgreSQL |
+| Cache | Redis |
 | Infrastructure | Docker + Kubernetes |
-| CI/CD        | GitHub Actions |
+| CI/CD | GitHub Actions |
 
 ---
 
