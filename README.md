@@ -9,114 +9,126 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/hippo321-0">
-    <img src="https://komarev.com/ghpvc/?username=hippo321-0&label=Profile%20Views&color=blue&style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 ```yaml
 Name: Harsha
-Education: B.Tech AIML (3rd Year)
+Education: B.Tech AIML
+Role: Student & Builder
+
 Focus:
   - Artificial Intelligence
   - Agentic AI Systems
   - Full Stack Development
   - Knowledge Management Systems
-Current Goal:
-  Build startup-level AI products and become an AI Engineer
+
+Mission:
+  Build impactful AI products and solve real-world problems.
 ```
 
-- 🔭 Currently building **COMMANDR** (Agentic AI Desktop Assistant)
-- 🤖 Exploring AI Agents, RAG, Knowledge Management Systems
-- 🌱 Learning System Design, Cloud, DevOps & Advanced AI
-- 💡 Love building real-world products from scratch
-- ⚡ Believe AI should do work, not create more work
+- 🔭 Currently building **COMMANDR**
+- 🤖 Exploring Agentic AI, RAG & AI Automation
+- 🌱 Learning Cloud, DevOps & System Design
+- 🚀 Building startup-grade software projects
+- ⚡ Turning ideas into working products
 
 ---
 
-## 🚀 Flagship Projects
+# 🚀 Featured Projects
 
-### 🤖 COMMANDR
-Agentic AI desktop system capable of:
+## 🤖 COMMANDR
+An AI-powered desktop assistant capable of:
+
 - Voice Commands
 - Autonomous Task Execution
 - Multi-Agent Architecture
-- Website Building & Deployment
-
-### 🧠 Mental Wellness Platform
-- Patient Dashboard
-- Therapist Dashboard
-- Admin Panel
-- AI Chatbot Integration
-- Appointment Management
-
-### 🎙️ Voice AI Assistant
-Python-based assistant capable of:
-- Voice Interaction
-- Web Automation
-- App Control
-- Smart Commands
+- Website Creation & Deployment
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🧠 Mental Wellness Platform
+
+Features:
+
+- Patient Dashboard
+- Therapist Dashboard
+- Admin Dashboard
+- Appointment Management
+- AI Chatbot Integration
+
+---
+
+## 🎙️ Voice AI Assistant
+
+Built using Python.
+
+Features:
+
+- Voice Recognition
+- Browser Automation
+- Smart Commands
+- Productivity Tasks
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hippo321-0&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hippo321-0&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hippo321-0&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
-> Snake animation requires a GitHub Action setup later.
-
----
-
-## 🎯 Current Learning Roadmap
+# 🎯 Current Learning Journey
 
 - ✅ Python
 - ✅ SQL
-- ✅ Web Development
+- ✅ Git & GitHub
 - ✅ MERN Stack
 - 🔄 Agentic AI
 - 🔄 RAG Systems
@@ -126,7 +138,7 @@ Python-based assistant capable of:
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -134,7 +146,7 @@ Python-based assistant capable of:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GMAIL">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
